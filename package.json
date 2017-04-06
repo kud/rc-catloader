@@ -1,0 +1,19 @@
+{
+  "name": "rc-catloader",
+  "version": "1.0.0",
+  "description": "A react component which allows you to show an animation during the loading of your app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kud/rc-catloader.git"
+  },
+  "author": "Erwann Mest <m@kud.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kud/rc-catloader/issues"
+  },
+  "homepage": "https://github.com/kud/rc-catloader#readme"
+}
